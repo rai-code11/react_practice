@@ -1,0 +1,21 @@
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background-color: blanchedalmond;
+  gap: 40px;
+}
+
+nav a {
+  text-decoration: none;
+  color: darkolivegreen;
+}
+
+nav a:hover {
+  color: aquamarine;
+}
+
+nav a svg {
+  margin-right: 5px;
+}
